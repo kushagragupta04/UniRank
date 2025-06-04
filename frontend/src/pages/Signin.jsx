@@ -13,7 +13,7 @@ export default function Signin() {
         e.preventDefault();
         try {
             if (isRegistering) {
-                const res = await axios.post("http://localhost:5000/api/users/register", {
+                const res = await axios.post(`${import.meta.env.VITE_API_BASE_URL}/api/users/register`, {
                     name,
                     email,
                     password,
@@ -28,7 +28,7 @@ export default function Signin() {
 
                 navigate("/");
             } else {
-                const res = await axios.post("http://localhost:5000/api/users/login", {
+                const res = await axios.post(`${import.meta.env.VITE_API_BASE_URL}/api/users/login`, {
                     email,
                     password,
                 }, { withCredentials: true });
@@ -48,7 +48,7 @@ export default function Signin() {
             const email = prompt("Enter your recruiter email:");
             const password = prompt("Enter your password:");
 
-            const res = await axios.post("http://localhost:5000/api/users/register", {
+            const res = await axios.post(`${import.meta.env.VITE_API_BASE_URL}/api/users/register`, {
                 name,
                 email,
                 password,
