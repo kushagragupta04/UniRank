@@ -34,23 +34,23 @@ uniRank is a web application that empowers students by centralizing profiles, ac
 
 ## 🖼️ Screenshots
 
-### 🔐 Login / Signup Page
-![Login Screenshot](./screenshots/LoginSignupPage.png)
+### 🔐 Login / Signup Page  
+<img src="./screenshots/LoginSignupPage.png" width="600" alt="Login Screenshot">
 
-### 🏠 Home Page
-![Home Screenshot](./screenshots/HomePage.png)
+### 🏠 Home Page  
+<img src="./screenshots/Homepage.png" width="600" alt="Home Screenshot">
 
-### 📊 Leaderboard Page
-![Leaderboard Screenshot](./screenshots/LeaderBoardPage.png)
+### 📊 Leaderboard Page  
+<img src="./screenshots/LeaderboardPage.png" width="600" alt="Leaderboard Screenshot">
 
-### 🤝 Collaborate Page
-![Collaborate Screenshot](./screenshots/CollaboratePage.png)
+### 🤝 Collaborate Page  
+<img src="./screenshots/CollaboratePage.png" width="600" alt="Collaborate Screenshot">
 
-### 👤 Profile Page
-![Profile Screenshot](./screenshots/ProfilePage.png")
+### 👤 Profile Page  
+<img src="./screenshots/ProfilePage.png" width="600" alt="Profile Screenshot">
 
-### 📝 Edit Profile Page
-![Edit Profile Screenshot](./screenshots/EditProfilePage.png")
+### 📝 Edit Profile Page  
+<img src="./screenshots/EditProfilePage.png" width="600" alt="Edit Profile Screenshot">
 
 ---
 
